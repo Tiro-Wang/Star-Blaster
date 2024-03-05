@@ -405,7 +405,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: SPACE SHOOTER
+  m_text: STAR BLASTER
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e0eb8d0606ddf0547b5db92f22cddb45, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 9e8e82c08878d544698617a110277acf, type: 2}
@@ -1386,6 +1386,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   musicSettingValue: 0
+  SFXSettingValue: 0
 --- !u!4 &1258741953
 Transform:
   m_ObjectHideFlags: 0
